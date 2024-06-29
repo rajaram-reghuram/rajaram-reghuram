@@ -1,13 +1,10 @@
-### Hello there! I'm Rajaram Reghuram 👋
+### I'm Rajaram Reghuram 👋
 
-## Associate Software Engineer | Azure Cloud Enthusiast | Terraform Fanatic
+## Associate Software Engineer | DevOps Learner | Cloud Fanatic
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a strong foundation in cloud development and infrastructure automation. I love diving into projects that challenge me to innovate and create scalable solutions. Here, you'll find some of my projects, contributions, and endeavors in the realm of technology.
+Hi 👋,
 
-### Tech Stack
-[![GitHub rajaramreghuram1](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![GitHub rajaramreghuram1](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![GitHub rajaramreghuram1](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+I'm a software engineer with a foundation in cloud development and infrastructure automation. I love diving into projects to innovate and create scalable solutions. 
 
 ### 🔧 Technologies and Tools
 
@@ -39,4 +36,4 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 ![Cloud Computing Advocate](https://img.shields.io/badge/Cloud%20Computing-Advocate-0089D6?style=for-the-badge)
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=azure,terraform,kubernetes,docker,java,py,mysql,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,terraform,kubernetes,docker,java,py,mysql,c)](https://skillicons.dev)
