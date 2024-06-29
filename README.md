@@ -7,13 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/rajaramreghuram" target="blank"><img src="https://img.shields.io/twitter/follow/rajaramreghuram?logo=twitter&style=for-the-badge" alt="rajaramreghuram" /></a> </p>
 
-- 🌱 I’m currently learning **Java Frameworks such as SpringBoot, Hibernate etc.**
+- 🌱 I’m currently learning **Cloud DevOps using tools such as Kubernetes, Ansible, Terraform using Azure and AWS Cloud Platforms**
 
 - 📫 How to reach me **rajaramreghuram1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajaramreghuram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajaramreghuram" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajaram-reghuram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajaram-reghuram" height="30" width="40" /></a>
 </p>
 
